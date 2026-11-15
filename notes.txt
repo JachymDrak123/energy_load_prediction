@@ -1,0 +1,4 @@
+1) There's always a very signifficant drop at the end of every year. Maybe because during chrismas some productions are stopped?
+2) On weekends there's way lower load than on work days.
+3) During nighttime the load is lower then during daytime.
+4) There is a multiple seasonality in the data. There are three cycles that repeat: day, weak and year.

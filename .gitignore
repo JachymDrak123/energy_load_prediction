@@ -1,0 +1,5 @@
+opsd-time_series-2020-10-06/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
